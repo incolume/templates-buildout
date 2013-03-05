@@ -1,5 +1,6 @@
 # temp files
 *~
+*.swp
 
 *.py[cod]
 
