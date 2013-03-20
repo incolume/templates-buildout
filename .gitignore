@@ -1,6 +1,9 @@
 # temp files
 *~
 *.swp
+*.orig
+*.rej
+haproxy.conf
 
 *.py[cod]
 
